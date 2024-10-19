@@ -1,0 +1,28 @@
+<!DOCTYPE Html>
+<html>
+    <title>
+        Text shadow, Boxshadow and Text
+        indent
+    </title>
+</html>
+<head>
+    <style>
+        *{
+            text-align: center;
+            font-family: monospace;
+        }
+        #text{
+            text-shadow: 2px 2px 1px #CC5500;
+        }
+        #box{
+            box-shadow: 9px 9px 5px #301934;
+        }
+        #indenttext{
+        text-indent:50%;
+        }
+        </style>
+                <head>
+            <h1 id="text">I am Tooba </h1>
+                <h2 id=shadow>I am a student
+                </h2>
+                </head>
